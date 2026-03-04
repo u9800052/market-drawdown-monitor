@@ -2,17 +2,17 @@
     "0050.TW": {
         "Date": "2026-02-25",
         "High": 81.8,
-        "Threshold": -0.05
+        "Threshold": -0.1
     },
     "2330.TW": {
         "Date": "2026-02-26",
         "High": 2010.0,
-        "Threshold": -0.05
+        "Threshold": -0.1
     },
     "VEA": {
         "Date": "2026-02-27",
         "High": 70.55000305175781,
-        "Threshold": -0.05
+        "Threshold": -0.1
     },
     "VT": {
         "Date": "2026-02-27",
