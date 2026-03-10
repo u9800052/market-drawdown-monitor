@@ -17,11 +17,11 @@
     "VT": {
         "Date": "2026-02-27",
         "High": 148.02999877929688,
-        "Threshold": -0.05
+        "Threshold": -0.1
     },
     "^GSPC": {
         "Date": "2026-01-26",
         "High": 7002.28,
-        "Threshold": -0.05
+        "Threshold": -0.1
     }
 }
